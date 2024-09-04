@@ -1,4 +1,4 @@
-# GRL_seismicdata
+# Synthetic seismicdata
 
 vp0_2d.mat is the initial velocity in 1D.
 
